@@ -2,6 +2,9 @@
 
 ### Modern warefare / warzone cheat
 
+YOU NEED TO UPDATE THE OFFSETS
+Credit : overflow
+
 - esp
 - aimbot
 - no recoil
@@ -14,6 +17,3 @@
 
 <img src="https://i.imgur.com/aps033c.png"/>
 <img src="https://i.imgur.com/FhOubEK.png"/>
-
-### video
-[![showcase](https://img.youtube.com/vi/nIOAIEnD5uA/0.jpg)](https://www.youtube.com/watch?v=nIOAIEnD5uA)
